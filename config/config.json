@@ -1,0 +1,10 @@
+{
+    "development": {
+      "username": "railway_user",
+      "password": "password123",
+      "database": "railway_management",
+      "host": "127.0.0.1",
+      "dialect": "mysql"
+    }
+  }
+  
